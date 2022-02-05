@@ -6,7 +6,7 @@
 * go further into the dungeon, 
 * fight the random enemy, 
 * drink a health potion or 
-* quit
+* quit the dungeon adventure
 
 ##### The next phase of this game it to:
 * use an interface to create the visual aspect of the game,
