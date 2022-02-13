@@ -1,4 +1,4 @@
-# Dungeon Adventure Game
+# Lion's Lair - A Dungeon Adventure Game
 
 ##### Technologies Used: Java
 
